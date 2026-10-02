@@ -1,0 +1,10 @@
+pnpm --filter @inQueue/auth dev
+===============================
+pnpm --filter @inQueue/barber dev
+===============================
+Run Gateway:-
+pnpm --filter @inQueue/api-gateway dev
+===============================
+root level running :-
+pnpm dev
+===============================
